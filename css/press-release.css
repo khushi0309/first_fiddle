@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+body{
+    background-color: black;
+}
+.text{
+    font-size: 60px;
+}
+.para{
+    font-size: 20px;
+}
+.online{
+    background-color: orange;
+    color: white;
+    height: 80px;
+    width: 150px;
+    border-radius: 17px;
+}
+
+.online:hover{
+    background-color: black;
+    color: white;
+}
+
+.offline{
+    background-color:black;
+    color: white;
+    height: 80px;
+    width: 150px;
+    border-radius: 17px;
+}
+
+.offline:hover{
+    background-color: black;
+    color: white;
+}
+h1 span{
+    color: #fdc213;
+}
+ h4 span{
+    color: #fdc213;
+    
+}
+.icon2{
+    margin-top: 200px;
+ }
+ .icon1{
+     margin-top: 170px;
+ }
+ 
+ .vdo{
+     width:100%;
+     position: absolute;
+ }
+ .some{
+     height: 200px;
+ }

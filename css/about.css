@@ -1,0 +1,165 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+ 
+}
+
+body {
+
+    background-color: black;
+}
+
+.container {
+    color: white;
+}
+
+.textcontainer h1 span {
+
+    color: #fdc213;
+
+}
+
+.textcontainer button {
+    margin-left: 1rem !important;
+    border-radius: 2rem !important;
+    padding: 1rem !important;
+}
+
+/* .textcontainer1 h1 span {
+    font-family: 'Times New Roman', Times, serif;
+    color: #fdc213;
+    font-weight: 700;
+} */
+
+.textcontainer1 button {
+    border-radius: 2rem !important;
+    padding: 1rem !important;
+}
+ .heading1{
+    text-align: center;
+}
+.heading1 span {
+    color: #fdc213;
+}
+.upper{
+    line-height: 3;
+}
+.btn{
+    border-radius: 2.5rem!important;  
+}
+h1 span{
+    color: #fdc213;
+}
+ h4 span{
+    color: #fdc213;
+    
+}
+.icon2{
+    margin-top: 200px;
+ }
+ .icon1{
+     margin-top: 170px;
+ }
+ 
+ .vdo {
+    width: 100%;
+    position: absolute;
+}
+
+.some {
+   height: 200px;
+   margin-top: 250px;
+} 
+
+.vdo1 {
+    width: 100%;
+
+}
+
+.toggler {
+    color: white;
+    font-size: 40px;
+}
+
+.pics {
+    height: 140px;
+    width: 155px;
+    /* padding-left: 30px;
+    margin-top: 33px;
+  */
+    background-color: black !important;
+    padding: 5px;
+    border-radius: 50%;
+    margin-top: 19px;
+    margin-left: 30px;
+
+}
+
+.about {
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.pics1 {
+    position: absolute;
+    border-radius: 50%;
+}
+
+.cnt {
+    position: absolute;
+}
+.heading {
+    font-size:40px;
+    position: absolute;
+    margin-top: 30px;
+}
+@media(max-width : 576px){
+    .btn1 {
+        border-radius: 2.5rem !important;
+        margin-left: 10px;
+        margin-top: 20px;
+        padding: 10px 10px;
+    
+    }
+    .textcontainer2 {
+        margin-left: 0px;
+    
+    }
+    .heading {
+        font-size:20px;
+     
+        position: absolute;
+        margin-top: 40px;
+    }
+    .icon2 {
+        margin-top: 50px;
+    }
+    
+    .icon1 {
+        margin-top: 10px;
+        display: none;
+    }
+    .vdo {
+
+        position: absolute;
+    }
+   
+    .toggler {
+        color: white;
+        font-size: 40px;
+        margin-left: 94px;
+    }
+    .pics{
+        margin-left: 60px;
+        margin-top: -25px;
+    }
+    .about{
+        display: none;
+    }
+    .btn{
+        display: none;
+
+    }
+    
+}

@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+body {
+    background-color: black;
+}
+
+
+
+.text {
+    font-size: 60px;
+}
+
+.btn {
+    border-radius: 2.5rem !important;
+}
+
+.para {
+    font-size: 30px;
+}
+
+h1 span {
+    color: #fdc213;
+}
+
+h4 span {
+    color: #fdc213;
+
+}
+.icon1,.icon2{
+    position: absolute;
+}
+.icon2{
+    margin-top: 200px;
+ }
+ .icon1{
+     margin-top: 170px;
+ }
+ 
+ .vdo{
+     width:100%;
+     position: absolute;
+ }
+ .some{
+     height: 200px;
+ }
